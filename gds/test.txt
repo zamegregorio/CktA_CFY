@@ -1,0 +1,2 @@
+
+No deja crear archivos vacios.
